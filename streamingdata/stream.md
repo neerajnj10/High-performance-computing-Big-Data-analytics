@@ -1,4 +1,4 @@
-Assignment 4: Streams
+Assignment : Streams
 --------------------------------
 
 Generate bivariate normal streaming data with different means represening three clusters.
